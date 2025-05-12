@@ -1,6 +1,7 @@
 import pandas as pd
 import pickle
 import datetime as dt
+import sklearn
 
 class Predictor:
     def __init__(self):

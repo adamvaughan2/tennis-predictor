@@ -2,4 +2,4 @@ streamlit
 pandas
 datetime
 pickle
-sklearn
+scikit-learn
