@@ -1,5 +1,7 @@
 # tennis-predictor
-Machine learning project predicting outcomes of ATP tennis matches with Streamlit dashboard interface.
+Machine learning project predicting outcomes of ATP tennis matches with Streamlit dashboard interface. The dashboard is hosted publically on Streamlit community cloud:
+
+https://tennispredictor.streamlit.app/
 
 ## File Overview
 The Streamlit dashboard is run by *app.py*, which requires the following files:
